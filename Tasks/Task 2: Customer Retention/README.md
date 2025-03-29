@@ -1,4 +1,4 @@
-# **Task 2: Customer Retention Analysis**
+# **2: Customer Retention Analysis**
 
 This section of the project aims to visualize key performance indicators (KPIs) related to customer retention in the telecom industry. By analyzing customer demographics and behaviors, this dashboard helps to predict churn and strategize ways to retain customers effectively.
 
