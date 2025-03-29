@@ -1,4 +1,4 @@
-# **Task 4: Diversity & Inclusion**
+# **Task 4: Diversity & Inclusion Analysis**
 
 This dashboard focuses on tracking gender balance and diversity within a company, particularly at the executive management level. It visualizes various diversity metrics and highlights areas where progress is slow, allowing for better diversity and inclusion strategies.
 
