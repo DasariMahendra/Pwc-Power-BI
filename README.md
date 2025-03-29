@@ -12,7 +12,9 @@ This project is part of the PwC Power BI Analyst case study, where we analyze bu
 - 📎 DAX Measures & Calculations
 - 📉 Business Insights & Recommendations
 
-The simulation is divided into three different very insightful projects:
+
+## 📉Task Simulations
+
 1. **Call Center Trends Analysis**: Visualizing customer satisfaction and agent performance.
 2. **Customer Retention Analysis**: Identifying key metrics to predict customer churn and improve loyalty.
 3. **Diversity & Inclusion Analysis**: Tracking and improving gender balance at the executive level.
