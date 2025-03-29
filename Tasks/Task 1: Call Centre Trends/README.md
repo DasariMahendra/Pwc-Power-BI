@@ -1,4 +1,4 @@
-# **Call Center Trends Analysis**
+# **Task 1: Call Centre Trends**
 
 This Power BI dashboard focuses on analyzing the trends and performance metrics in a call center environment. It provides insights into customer satisfaction, call volumes, and agent efficiency. By understanding these metrics, companies can identify areas for improvement and optimize call center operations for better customer experience.
 
