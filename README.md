@@ -47,21 +47,6 @@ Pwc-Power-BI/
             visuals.pbix
 ```
 
-
-## Tasks Overview
-
-### [1: Call Center Trends Analysis](Tasks/Task 1: Call Centre Trends/README.md)
-
-- **Objective**: Analyze call center metrics to improve customer satisfaction and operational efficiency.
-
-### [2: Customer Retention Analysis](Tasks/Task 2: Customer Retention/README.md)
-
-- **Objective**: Identify factors affecting customer churn and develop strategies for retention.
-
-### [3: Diversity & Inclusion Analysis](Tasks/Task 3: Diversity & Inclusion/README.md)
-
-- **Objective**: Evaluate gender balance within the organization and propose actionable insights for improvement.
-
  ## 💡 Learning Outcomes
 
 Through this project, you will gain hands-on experience in:
