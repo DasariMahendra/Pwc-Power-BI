@@ -54,7 +54,7 @@ Pwc-Power-BI/
 
 - **Objective**: Analyze call center metrics to improve customer satisfaction and operational efficiency.
 
-### [Task 2: Customer Retention Analysis](Tasks/Task 2: Customer Retention//README.md)
+### [Task 2: Customer Retention Analysis](Tasks/Task 2: Customer Retention/README.md)
 
 - **Objective**: Identify factors affecting customer churn and develop strategies for retention.
 
