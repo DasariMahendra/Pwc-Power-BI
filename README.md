@@ -33,20 +33,10 @@ This project is part of the PwC Power BI Analyst case study, where we analyze bu
 ```plaintext
 Pwc-Power-BI/
 └───Tasks/
-    ├───Task 1: Call Centre Trends/
-    |       README.md
-    │       dataset.xlsx
-    │       visuals.pbix
-    │
-    ├───Task 2: Customer Retention/
-    │       README.md
-    │       dataset.xlsx
-    │       visuals.pbix
-    │
-    └───Task 3: Diversity & Inclusion/
-            README.md
-            dataset.xlsx
-            visuals.pbix
+    ├───Task 1: Call Centre Trends
+    ├───Task 2: Customer Retention
+    └───Task 3: Diversity & Inclusion
+
 ```
 
  ## 💡 Learning Outcomes
