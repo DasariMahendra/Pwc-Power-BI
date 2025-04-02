@@ -28,17 +28,6 @@ This project is part of the PwC Power BI Analyst case study, where we analyze bu
 - **Excel / CSV** – Data Storage & Import
 
 
-## Project Structure
-
-```plaintext
-Pwc-Power-BI/
-└───Tasks/
-    ├───Task 1: Call Centre Trends
-    ├───Task 2: Customer Retention
-    └───Task 3: Diversity & Inclusion
-
-```
-
  ## 💡 Learning Outcomes
 
 Through this project, you will gain hands-on experience in:
