@@ -27,8 +27,7 @@ This project is part of the PwC Power BI Analyst case study, where we analyze bu
 - **DAX (Data Analysis Expressions)** – Custom Calculations & Measures
 - **Excel / CSV** – Data Storage & Import
 
-
- ## 💡 Learning Outcomes
+## 💡 Learning Outcomes
 
 Through this project, you will gain hands-on experience in:
 - Working with real-world business data.
